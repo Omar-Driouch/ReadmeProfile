@@ -81,10 +81,9 @@ Complete all the relevant fields with your personal information:
 ### Step 6: Copy the Generated Content
 1. Once generated, you'll see the markdown code for your README
 2. **Select all the content** (Ctrl+A or Cmd+A)
+3. **Copy the content** (Ctrl+C or Cmd+C)
+
 ![Generate Button](https://i.ibb.co/MyCgFQ5F/Capture-d-cran-2025-06-23-030252.png)
-4. **Copy the content** (Ctrl+C or Cmd+C)
-
-
 
 ### Step 7: Create Your GitHub Profile Repository
 1. Go to **GitHub.com** and sign in to your account
