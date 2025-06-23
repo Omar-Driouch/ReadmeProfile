@@ -81,10 +81,10 @@ Complete all the relevant fields with your personal information:
 ### Step 6: Copy the Generated Content
 1. Once generated, you'll see the markdown code for your README
 2. **Select all the content** (Ctrl+A or Cmd+A)
-3. ![Generate Button](https://i.ibb.co/MyCgFQ5F/Capture-d-cran-2025-06-23-030252.png)
+![Generate Button](https://i.ibb.co/MyCgFQ5F/Capture-d-cran-2025-06-23-030252.png)
 4. **Copy the content** (Ctrl+C or Cmd+C)
 
-![Generated Content](https://user-images.githubusercontent.com/placeholder/generated-content.png)
+
 
 ### Step 7: Create Your GitHub Profile Repository
 1. Go to **GitHub.com** and sign in to your account
@@ -96,38 +96,30 @@ Complete all the relevant fields with your personal information:
 6. Check the box **"Add a README file"**
 7. Click **"Create repository"**
 
-![GitHub New Repository](https://user-images.githubusercontent.com/placeholder/github-new-repo.png)
+![GitHub New Repository](https://i.ibb.co/rG2PN7Dx/Capture-d-cran-2025-06-23-030642.png)
 
 ### Step 8: Edit and Paste Your README
 1. In your newly created repository, you'll see a README.md file
 2. Click the **"Edit"** button (pencil icon) next to the README.md file
-3. **Delete the existing content** in the file
-4. **Paste the content** you copied from the generator (Ctrl+V or Cmd+V)
-5. Scroll down and click **"Commit changes"**
-6. Add a commit message like "Add profile README"
-7. Click **"Commit changes"** again
+![GitHub Edit README](https://i.ibb.co/zVbQVTNq/Capture-d-cran-2025-06-23-030846.png)
+4. **Delete the existing content** in the file
+5. **Paste the content** you copied from the generator (Ctrl+V or Cmd+V)
+6. Scroll down and click **"Commit changes"**
+7. Add a commit message like "Add profile README"
+8. Click **"Commit changes"** again
+![GitHub Edit README](https://i.ibb.co/sdTM9YFN/Capture-d-cran-2025-06-23-031054.png")
 
-![GitHub Edit README](https://user-images.githubusercontent.com/placeholder/github-edit-readme.png)
 
 ### Step 9: View Your Profile
 1. Go to your GitHub profile by clicking on your avatar and selecting "Your profile"
 2. Your new README will now be displayed at the top of your profile page!
 
-![Final Profile Result](https://user-images.githubusercontent.com/placeholder/final-profile-result.png)
+![Final Profile Result](https://dynitcloud-my.sharepoint.com/:i:/g/personal/o_driouch_dynit_ma/Ed-gPQy0HadLowfbSJ0WwksBEiiNnsvRqZ-2kMvPYNNQwA?e=hu2nqB)
 
 ## Example Screenshots
 
-### Generator Interface
-![Profile README Generator Main Interface](https://user-images.githubusercontent.com/placeholder/generator-main-interface.png)
-
-### Template Options
-![Available Templates](https://user-images.githubusercontent.com/placeholder/available-templates.png)
-
-### Left Sidebar Menu
-![Left Sidebar Options](https://user-images.githubusercontent.com/placeholder/left-sidebar-menu.png)
-
 ### Final GitHub Profile
-![Complete GitHub Profile](https://user-images.githubusercontent.com/placeholder/complete-github-profile.png)
+![Complete GitHub Profile](https://dynitcloud-my.sharepoint.com/:i:/g/personal/o_driouch_dynit_ma/EfEilAW-Av9Bu5QgjDOBbH0BGiI5h7Hu5f2BAC3Si2Me5w?e=O3KY3j)
 
 ## Tips for Success
 
