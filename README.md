@@ -47,7 +47,7 @@ Use the various options available in the left sidebar to enhance your profile:
 ### Step 4: Fill Out Your Information
 Complete all the relevant fields with your personal information:
 
-![Form Fields Example](https://user-images.githubusercontent.com/placeholder/form-fields-example.png)
+![Form Fields Example](https://i.ibb.co/5hHVh7Hs/Capture-d-cran-2025-06-23-025806.png)
 
 #### Personal Details:
 - **Full Name**: Your professional name
@@ -76,12 +76,13 @@ Complete all the relevant fields with your personal information:
 3. **Click the "Generate" button**
 4. The generator will create your custom README content
 
-![Generate Button](https://user-images.githubusercontent.com/placeholder/generate-button.png)
+![Generate Button](https://i.ibb.co/q35rtTrp/Capture-d-cran-2025-06-23-030112.png)
 
 ### Step 6: Copy the Generated Content
 1. Once generated, you'll see the markdown code for your README
 2. **Select all the content** (Ctrl+A or Cmd+A)
-3. **Copy the content** (Ctrl+C or Cmd+C)
+3. ![Generate Button](https://i.ibb.co/MyCgFQ5F/Capture-d-cran-2025-06-23-030252.png)
+4. **Copy the content** (Ctrl+C or Cmd+C)
 
 ![Generated Content](https://user-images.githubusercontent.com/placeholder/generated-content.png)
 
