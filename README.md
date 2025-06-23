@@ -18,19 +18,19 @@ A GitHub Profile README is a special repository that showcases information about
 2. Navigate to: **https://profile-readme-generator.com/**
 3. You'll see the "Welcome To Profile Readme Generator" page
 
-![Profile README Generator Interface](https://user-images.githubusercontent.com/placeholder/generator-interface.png)
+![Profile README Generator Interface](https://i.ibb.co/Q7QB0vsm/Capture-d-cran-2025-06-23-024933.png)
 
 ### Step 2: Choose a Template
 1. Look at the template options numbered 1-4 in the center of the page
 2. **Click on template number 4** (recommended as it provides the best structure)
 3. This will load the template for customization
 
-![Template Selection](https://user-images.githubusercontent.com/placeholder/template-selection.png)
+![Template Selection](https://i.ibb.co/dJgBRnLj/Capture-d-cran-2025-06-23-025029.png)
 
 ### Step 3: Add Content from the Left Menu
 Use the various options available in the left sidebar to enhance your profile:
 
-![Left Menu Options](https://user-images.githubusercontent.com/placeholder/left-menu-options.png)
+![Left Menu Options](https://i.ibb.co/SwbNff5d/Capture-d-cran-2025-06-23-025400.png)
 
 #### Essential Sections to Include:
 - **Text**: Add your name, title, and brief introduction
