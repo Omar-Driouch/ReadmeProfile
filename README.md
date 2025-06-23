@@ -5,7 +5,7 @@
 ## Overview
 A GitHub Profile README is a special repository that showcases information about you on your GitHub profile. It's displayed prominently at the top of your profile page and is a great way to introduce yourself to other developers.
 
-![Profile README Generator Homepage](https://user-images.githubusercontent.com/placeholder/readme-generator-homepage.png)
+![Profile README Generator Homepage](https://i.ibb.co/vxy8rq6k/Capture-d-cran-2025-06-23-024453.png)
 
 ## Prerequisites
 - A GitHub account
