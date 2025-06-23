@@ -100,12 +100,15 @@ Complete all the relevant fields with your personal information:
 ### Step 8: Edit and Paste Your README
 1. In your newly created repository, you'll see a README.md file
 2. Click the **"Edit"** button (pencil icon) next to the README.md file
-![GitHub Edit README](https://i.ibb.co/zVbQVTNq/Capture-d-cran-2025-06-23-030846.png)
 4. **Delete the existing content** in the file
 5. **Paste the content** you copied from the generator (Ctrl+V or Cmd+V)
 6. Scroll down and click **"Commit changes"**
 7. Add a commit message like "Add profile README"
 8. Click **"Commit changes"** again
+
+![GitHub Edit README](https://i.ibb.co/zVbQVTNq/Capture-d-cran-2025-06-23-030846.png)
+
+
 ![GitHub Edit README](https://i.ibb.co/sdTM9YFN/Capture-d-cran-2025-06-23-031054.png")
 
 
@@ -113,12 +116,9 @@ Complete all the relevant fields with your personal information:
 1. Go to your GitHub profile by clicking on your avatar and selecting "Your profile"
 2. Your new README will now be displayed at the top of your profile page!
 
-![Final Profile Result](https://dynitcloud-my.sharepoint.com/:i:/g/personal/o_driouch_dynit_ma/Ed-gPQy0HadLowfbSJ0WwksBEiiNnsvRqZ-2kMvPYNNQwA?e=hu2nqB)
+![Final Profile Result](https://i.ibb.co/2026KdDJ/Capture-d-cran-2025-06-23-024619.png)
 
-## Example Screenshots
 
-### Final GitHub Profile
-![Complete GitHub Profile](https://dynitcloud-my.sharepoint.com/:i:/g/personal/o_driouch_dynit_ma/EfEilAW-Av9Bu5QgjDOBbH0BGiI5h7Hu5f2BAC3Si2Me5w?e=O3KY3j)
 
 ## Tips for Success
 
